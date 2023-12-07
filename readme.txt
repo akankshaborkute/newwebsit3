@@ -13,13 +13,13 @@ Website: 	https://www.themesine.com/
 
 
 Changelog:
------------------------
+-------------------------------------------------------------------
 Version 1.0 13-06-2018
 - initial release 
 
 
 Credits:
------------------------
+---------------------------------------------------------------------
 - Twitter Bootstrap http://getbootstrap.com
 - jQuery http://jquery.org
 - Modernizr https://modernizr.com/
@@ -30,5 +30,5 @@ Credits:
 - Unsplash https://unsplash.com/
 
 License:
------------------------
+------------------------------------------------------------------------
 This template is under Free License - https://www.themesine.com/license/
